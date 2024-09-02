@@ -92,7 +92,8 @@ ai_brain.predict(X_n1_1)
 ```
 ## Dataset Information
 
-![360742718-c92fa336-f5d4-4db5-95ea-1c1006161c0e](https://github.com/user-attachments/assets/39ef3182-1f7f-44dc-ae28-db5aa79c7f4b)
+
+![Screenshot 2024-09-02 110837](https://github.com/user-attachments/assets/e9fce165-27a3-4c4c-9455-8794a8cb540d)
 
 
 
@@ -100,18 +101,19 @@ ai_brain.predict(X_n1_1)
 
 ### Training Loss Vs Iteration Plot
 
-![360742283-5973e5e6-a392-48b4-acd2-4dceee59d90c](https://github.com/user-attachments/assets/4b9ea639-f759-4cb9-ade0-8bf370c19fb2)
+![Screenshot 2024-09-02 110850](https://github.com/user-attachments/assets/dfeeddd1-c010-487c-b181-0e71a7759c3c)
 
 
 
 ### Test Data Root Mean Squared Error
 
-![360743822-7031e3ee-70ca-4ed2-af4d-251eec1449bc](https://github.com/user-attachments/assets/3e46581a-7d15-478a-b9fe-a4e421cd445f)
+![Screenshot 2024-09-02 110858](https://github.com/user-attachments/assets/11c1b378-5946-4c18-8d99-bbfec61dd0a0)
 
 
 ### New Sample Data Prediction
 
-![360744282-68d14b8c-82d0-4bcb-9605-8cfb8c48f18d](https://github.com/user-attachments/assets/328df461-7f1f-4b0b-b59a-7f66790947c0)
+![Screenshot 2024-09-02 110904](https://github.com/user-attachments/assets/45515f7b-9ec5-4b54-81f4-66e44616a40f)
+
 
 
 ## RESULT
